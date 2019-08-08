@@ -1,4 +1,4 @@
-# Railway-Automation-and-Monitoring-using-PC
-Railway Automation and Monitoring using PC B.E. Final year project.
+# Railway-Automation
+Railway Automation undergrad final year project.
 
 Video Link: https://www.youtube.com/watch?v=fgip98g8Ggk
